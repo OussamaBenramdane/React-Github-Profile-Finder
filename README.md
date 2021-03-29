@@ -14,7 +14,7 @@ For the client side: [ReactJs](https://fr.reactjs.org/)
 
 ## The API
 
-The api used in the app is : [Openweathermap](https://openweathermap.org/)
+The api used in the app is : [Github API](https://docs.github.com/en/rest)
 
 ## Instalation
 

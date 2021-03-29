@@ -35,4 +35,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Live Preview
 
-For a live preview Click on the following [Link](https://sup-weather.herokuapp.com/) for more information.
+For a live preview Click on the following [Link](https://prof-fetcher.herokuapp.com/) for more information.

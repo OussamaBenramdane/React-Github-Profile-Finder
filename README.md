@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Sup Weather App
+# Github Profile Finder
 
 A web application that offeres real time github profile fetching
 
